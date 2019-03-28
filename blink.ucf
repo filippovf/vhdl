@@ -1,0 +1,5 @@
+# Exemplo de arquivo de restrições do usuário (UCF) para o kit Digilent Basys 2.
+# Example User Constraint File for Digilent Basys 2 kit.
+NET "mclk" LOC = "B8"; # Bank = 0, Signal name = MCLK
+NET "mclk" CLOCK_DEDICATED_ROUTE = FALSE;
+NET "saidam" LOC = "P6" ; # Bank = 2, Signal name = LD3
