@@ -5,8 +5,11 @@ En:     VHDL examples for Reconfigurable Digital Systems / PLD / FPGA classes
 
 
 blink_vhd.vhd
+
   LED pisca-pisca usando divisor de clock.
+  
   LED blink using clock divider.
+
 
 
 
