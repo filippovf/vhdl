@@ -1,6 +1,7 @@
 ----------------------------------------------------------------------------------
+-- Pisca LED - Exemplo de divisor de clock
 -- Visite: http://prof.valiante.info
--- Conteúdo relacionado nas Aulas de Sistemas Digitais
+-- ConteÃºdo relacionado nas Aulas de Sistemas Digitais
 ----------------------------------------------------------------------------------
 
 library IEEE;
@@ -30,8 +31,8 @@ begin
 	end process;
 	
 	--fazer o led piscar:
-	saidam <= clk_div(25); 	--foi escolhido o índice 25 do vetor divisor de clock
-							--pode-se escolher outro índice para aumentar ou reduzir a frequência
+	saidam <= clk_div(25); 	--foi escolhido o Ã­ndice 25 do vetor divisor de clock
+							--pode-se escolher outro Ã­ndice para aumentar ou reduzir a frequÃªncia
 
 
 end Behavioral;
