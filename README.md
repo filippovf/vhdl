@@ -17,6 +17,12 @@ mux2x1.vhd
 	
 	Mux 2 x 1 implemented with when/else, with/select/when, boolean expression, if, and case.
 	
+template.vhd
+
+	Um simples template de VHDL.
+	
+	A simple VHDL template.
+
 
 Mais informações em http://prof.valiante.info/disciplinas/sistemas-digitais#TOC-L-gica-Reconfigur-vel---PLDs-FPGAs
 
