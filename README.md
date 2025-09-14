@@ -1,4 +1,4 @@
-# vhdl
+# VHDL
 Pt-br:  Exemplos de VHDL para aulas de Sistemas Digitais Reconfiguráveis / PLDs / FPGAs.
 
 En:     VHDL examples for Reconfigurable Digital Systems / PLD / FPGA classes.
